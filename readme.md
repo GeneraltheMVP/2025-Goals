@@ -1,5 +1,5 @@
 # Please Commit Your First Quarter Goals
-
+a
 <details>
   <summary> King Obi Goals </summary>
 
@@ -170,29 +170,20 @@ Q1
 
 Task 1
 - Complete Section 6; Deploying the SCCM Client {Udemy}
-- Complete Section 3; Microsoft Endpoint Manager: Deploy MECM Clients {PluralSight}
- 
-</details>
+- Complete Section 3; Microsoft Endpoint Manager: Deploy MECM 
 
 
-<details>
-
-  <summary> Copy this sample block </summary>
+<summary> GeneraltheMVP's Goals </summary>
   
 ---
+Artificial Intelligence 
+---
 
-  <p> 
-  Duplicate this sample block from details tag opening to details tag closing <br>
-  Add your name in the summary <br>
-  Add your goals in the body <br>
-  </p>
-
-
-
+</details>
 Q1
-- Goal A
-- Goal B
-- Goal C
+- Master's in Artificial Intelligence
+- Robotics 
+- Machine learning 
 
 </details>
 
@@ -203,15 +194,13 @@ Q1
 ---
 
   <p> 
-  Please write your name on your Sub-Groups <br>
+  GeneraltheMvp <br>
   </p>
 
 
 
 Sub-Group
 
-
-  Cyber Security
    <ul>
     <li>name</li>
   </ul>
